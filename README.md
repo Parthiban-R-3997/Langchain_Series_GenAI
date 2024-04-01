@@ -36,7 +36,7 @@ streamlit run app.py
 3. Enter the topic you want to search for in the text input field and the chatbot will provide responses based on the input.
 
 ## Example
-![Screenshot](screenshot.png)
+![screenshot](https://github.com/Parthiban-R-3997/Langchain_Series_GenAI/assets/26496805/ef76bcf3-30cd-4745-b338-842966d75fa2)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
